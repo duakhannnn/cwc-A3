@@ -1,0 +1,94 @@
+body{background-color: darkorange;}
+h1+p{background-color: black;
+	width: 100%; padding-bottom: 12%;
+	margin-top: -10px;}
+h1{color: white;
+	font: unset;
+	font-size: 18px;
+	text-align: center;}
+p{text-align: center;
+	font-size: 65px;
+	font-weight: bolder;
+	color: white;
+	font-family: 'Dancing Script', cursive;
+	padding-top: 30px;}
+h4{background-color: red;
+   text-align: center;
+   width: 30%;
+  margin-left:35%;
+  margin-right: 10%;
+  margin-top:5%;}
+h5{color: white;
+	text-align: center;
+	margin-top: -1.5%;
+	margin-left: 20px;
+
+}
+.whole{margin-top: -180px;
+	   margin-left: 34%}
+#bunup{ background-color: yellow;
+	width: 400px; height: 90px;
+	border-top-left-radius: 70px;
+	border-top-right-radius: 70px;
+
+}
+#saladup{background-color: green;
+	width: 420px;
+	height: 10px;
+	border-radius: 50px;
+	margin-left: -10px;
+	
+}
+#cheese{background-color: orange;
+	height:10px ;width:420px ;
+	border-radius: 50px;
+	margin-left: -10px;
+
+
+}
+#patty{background-color: brown;
+	height:25px ;width:420px ;
+	border-radius: 50px;
+	margin-left: -10px;}
+#tomato{background-color: red;
+	height:10px ;width:420px ;
+	border-radius: 50px;
+	margin-left: -10px;}
+#saladdown{background-color: green;
+	height:10px ;width:420px ;
+	border-radius: 50px;
+	margin-left: -10px;}
+
+}
+#cola{height: 50px; width: 29px;
+	background-color: black;
+	border-style: dashed;
+
+}
+#patty2{background-color: brown;
+	height:25px ;width:420px ;
+	border-radius: 50px;
+	margin-left: -10px;
+
+}
+#tomato2{background-color: red;
+	height:10px ;width:420px ;
+	border-radius: 50px;
+	margin-left: -10px;
+
+}
+#patty3{background-color: brown;
+	height:25px ;width:420px ;
+	border-radius: 50px;
+	margin-left: -10px;
+
+}
+#bundown{background-color: yellow ;
+         height:60px; width:400px;
+         border-bottom-left-radius: 70px;
+         border-bottom-right-radius: 70px;
+         box-shadow: 10px 10px 10px 10px;
+
+
+
+     }
